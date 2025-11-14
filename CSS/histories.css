@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+.histColor{
+    background-image: linear-gradient(rgb(230, 105, 215), rgb(195, 42, 177));
+    color: transparent;
+    background-clip: text;
+}
